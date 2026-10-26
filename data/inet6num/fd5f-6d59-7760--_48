@@ -1,0 +1,7 @@
+inet6num:           fd5f:6d59:7760::/48
+netname:            CHENLANG-IPV6
+status:             ASSIGNED
+admin-c:            CHENLANG-DN64
+tech-c:             CHENLANG-DN64
+mnt-by:             CHENLANG-MNT
+source:             DN64

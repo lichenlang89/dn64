@@ -1,0 +1,6 @@
+mntner:             CHENLANG-MNT
+admin-c:            CHENLANG-DN64
+tech-c:             CHENLANG-DN64
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICKXvOHIVLZUwAtzQwvgMiaI+BWYNH+14HxQQJjd45Fr
+mnt-by:             CHENLANG-MNT
+source:             DN64

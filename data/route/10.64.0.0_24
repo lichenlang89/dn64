@@ -1,0 +1,4 @@
+route:              10.64.0.0/24
+origin:             AS4206400000
+mnt-by:             CHENLANG-MNT
+source:             DN64

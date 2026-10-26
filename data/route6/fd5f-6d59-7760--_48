@@ -1,0 +1,4 @@
+route6:             fd5f:6d59:7760::/48
+origin:             AS4206400000
+mnt-by:             CHENLANG-MNT
+source:             DN64

@@ -1,0 +1,8 @@
+inetnum:            10.64.0.0 - 10.64.0.255
+cidr:               10.64.0.0/24
+netname:            CHENLANG-IPV4
+status:             ASSIGNED
+admin-c:            CHENLANG-DN64
+tech-c:             CHENLANG-DN64
+mnt-by:             CHENLANG-MNT
+source:             DN64
